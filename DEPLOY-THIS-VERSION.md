@@ -1,10 +1,5 @@
-# Deploy this version
+# Deploy Live Projects v7
 
-This package intentionally embeds all CSS inside `index.html`. That eliminates stylesheet cache and file-path problems.
+This version adds the embedded Musk v. Bezos video, its paper link, and a research summary. All CSS remains embedded inside index.html.
 
-1. In the GitHub repository, delete the current `index.html`.
-2. Upload this package's `index.html`, `.nojekyll`, and `assets/profile.jpg`.
-3. Commit directly to the same branch and folder selected under Settings > Pages.
-4. Verify the footer reads `Live Projects v6`.
-
-The page contains live iframe previews for all three supplied GitHub Pages projects.
+Replace the existing index.html with this package's index.html and upload assets/profile.jpg plus .nojekyll to the active GitHub Pages source. Verify the footer displays Live Projects v7.
